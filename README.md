@@ -25,7 +25,7 @@ This project explores and models an insurance dataset to analyze key factors aff
       - Mean Squared Error (MSE)
       - Mean Absolute Error (MAE)
       - R² Score
-      - 
+        
 # Dataset
 The dataset contains information about insurance charges and includes the following features:
 
@@ -49,10 +49,10 @@ The dataset contains information about insurance charges and includes the follow
 1. Clone the repository and navigate to the project directory.
 2. Ensure the dataset (insurance.csv) is in the data/ folder.
 3. Install the required libraries:
-      pip install -r requirements.txt
+     - pip install -r requirements.txt
 4. Run the notebooks sequentially:
-     -EDA.ipynb for data analysis.
-     -model_training.ipynb for model development.
+     - EDA.ipynb for data analysis.
+     - model_training.ipynb for model development.
 5. Key Insights and Results
 - Insights derived from data analysis.
 - Comparative evaluation of different regression models.
